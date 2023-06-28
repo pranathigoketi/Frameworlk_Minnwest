@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="POM Test Suite">
+    <test name="POM Test">
+        <classes>
+            <class name="Testscenarios.Testmethods_spotlightOLB"/>
+            <class name="Testscenarios.Messages_OLB"/>
+
+        </classes>
+    </test>
+</suite>
